@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a tutorial to help first-time contributors to participate in a simple and easy project.
+This is a tutorial/walk through to help first-time contributors to participate in a simple and easy project.
 
 ### Objectives
 
